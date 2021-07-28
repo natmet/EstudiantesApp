@@ -30,6 +30,9 @@ namespace EstudiantesApp
                         insertar();
                         break;
 
+                    default:
+                        Console.WriteLine("Digite una opcion valida");
+                            break;
 
                 }
 
